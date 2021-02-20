@@ -1,2 +1,2 @@
-# django-todo
+# todoApp
 simple django todo app
